@@ -133,3 +133,7 @@ O objetivo era criar um aplicativo de delivery capaz de pessoas clientes comprar
 
 ---
 ⌨️ desenvolvido por [Tomas Avelino](https://www.linkedin.com/in/tomas-avelino-6b1547238/)
+---
+[Mariana Ota ](https://www.linkedin.com/in/mariana-naomi-ota-dev/)
+---
+[Allan Almeida](https://www.linkedin.com/in/almeida-allan)
