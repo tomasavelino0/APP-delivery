@@ -6,6 +6,14 @@
 
 O objetivo era criar um aplicativo de delivery capaz de pessoas clientes comprarem bebidas,  pessoas vendedoras administrar suas vendas e pessoas administradoras poder excluir colaboradores se necessário, aonde era necessário desenvolver todo o fluxo do app o front-end e o back-end.
 
+## O que o app possui ?
+
+ - Tela de login que recebe token jwt ao efetuar o login com sucesso.
+ - tela de cadastro que adiciona um novo usuario ao back-end.
+ - uma tela de produtos para compra de produtos em que o carrinho e atualizado.
+ - uma tela de checkout aonde e possivel finalizar uma compra e enviar para o back-end.
+ - uma tela de vendedor aonde e possivel administrar as vendas.
+
 ## Aqui e o app ja desenvolvido.
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTMyZGM5NzQ5NGIwNWRhNGIzYmVkOTU2MzdjNGI3MTQzN2FhNzJhYiZjdD1n/IMakznFZGkRSJET0Qu/giphy.gif)
 
