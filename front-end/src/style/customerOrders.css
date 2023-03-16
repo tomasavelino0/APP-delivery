@@ -1,0 +1,54 @@
+.button-details {
+    width: 30%;
+}
+
+.container-cards-orders {
+    display: flex;
+    justify-content: center;
+}
+
+.data {
+    background-color: #F2FFFC;
+}
+
+.date-price-container {
+    background-color: #F2FFFC;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40px;
+}
+
+.orderCustomer-container {
+    align-items: center;
+    background-color: #EAF1EF;
+    border: 1px solid #B1C2BE;
+    display: flex;
+    justify-content: space-evenly;
+    margin-right: 1%;
+    margin-top: 1%;
+    padding: 1%;
+    width: 25%;
+}
+
+.number-order {
+    color: #001813;
+    display: flex;
+    font-size: 10px;
+    flex-direction: column;
+    
+}
+.number-order h2, h3 {
+    font-size: 20px;
+    margin: 0;
+}
+
+.status {
+    padding: 12%;
+    font-size: 25px;
+}
+
+.totalPrice {
+    background-color: #F2FFFC;
+}
+
+

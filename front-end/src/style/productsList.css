@@ -1,0 +1,56 @@
+.buttonsAddRm {
+    color: #F2FFFC;
+    background-color: #036b52;
+    font-size: 20px;
+    width: 30px;
+}
+
+.container-itemCard {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+.container-itemCard img {
+    height: 120px;
+    width: 80%;
+}
+
+.container-price {
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.input-price {
+    text-align: center;
+    width: 20%;
+}
+
+.quantity-buttons {
+    background-color: #EAF1EF;
+    display: flex;
+    justify-content: center;
+}
+
+.products-list {
+    display: flex;
+    justify-content: center;
+}
+
+.product-name {
+    background-color: #EAF1EF;
+    width: 100%;
+}
+
+.product-price {
+    font-weight: 600;
+}
+
+.total-button {
+    background-color: #036B52;
+    color: #F2FFFC;
+    font-weight: 600;
+    height: 50px;
+}

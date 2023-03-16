@@ -1,0 +1,106 @@
+.order-container {
+  align-items: center;
+  background-color: #e0e0e0;
+  box-shadow: 4px 4px 10px rgb(97, 97, 97);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  left: 11%;
+  padding: 10px 20px;
+  position: absolute;
+  top: 130px;
+  width: auto;
+}
+
+.upper-menu {
+  align-items: center;
+  display: flex;
+  gap: 40px;
+}
+
+.tableDetail {
+  background-color: #f2f2f2;
+  border-collapse: separate;
+}
+
+.status-container {
+  align-items: center;
+  border-radius: 5%;
+  font-weight: 700;
+  justify-content: center;
+  text-align: center;
+  width: 120px;
+}
+
+.orderBtn {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.pendente {
+  background-color: #ccb800;
+  width: 100%;
+}
+
+.preparando {
+  background-color: #6c0;
+  width: 100%;
+}
+
+.entregue {
+  background-color: #00cc9b;
+}
+
+th, td {
+  gap: 10px;
+  padding: 6px;
+}
+
+th {
+  font-weight: 700;
+}
+
+.table-number {
+  background-color: #2fc18c;
+  color: rgb(24, 24, 24);
+  text-align: center;
+}
+
+.table-name {
+  background-color: #e0e0e0;
+  width: 500px;
+}
+
+.table-quantity {
+  background-color: #036b52;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+.table-unitPrice {
+  background-color: #621fa1;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+.table-subTotal {
+  background-color: #056cf9;
+  color: #e0e0e0;
+  text-align: center;
+}
+
+td button {
+  background-color: rgba(255, 255, 255, 0);
+  border: none;
+  cursor: pointer;
+  font-size: medium;
+  text-decoration: none;
+}
+
+.total-price {
+  background-color: #036b52;
+  border-radius: 5%;
+  color: #e0e0e0;
+  padding: 7px;
+}
