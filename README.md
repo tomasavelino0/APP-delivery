@@ -130,4 +130,6 @@ O objetivo era criar um aplicativo de delivery capaz de pessoas clientes comprar
 </tr>
 </table>
 </p>
-desenvolvido por [Tomas Avelino](https://www.linkedin.com/in/tomas-avelino-6b1547238/)
+
+---
+⌨️ desenvolvido por [Tomas Avelino](https://www.linkedin.com/in/tomas-avelino-6b1547238/)
