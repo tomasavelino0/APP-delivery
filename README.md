@@ -1,5 +1,5 @@
 # APP-DELIVERY
-    Projeto desenvolvido durante o curso full-stack Trybe.
+    Projeto desenvolvido como ultimo projeto do modulo de back-end no curso full-stack Trybe.
 
 
 ## Desafio
